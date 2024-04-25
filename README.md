@@ -3,4 +3,4 @@
 
 - ⚡ Java / JavaScript / Python /  Vue .
 - 😀 Blog: [blog.liumulin.top](http://blog.liumulin.top)
-- 📫 Email me at: [liu1142865396@gmail.com](mailto:liu1142865396@gmail.com)
+- 📫 Email me at: [eddie.lau.life@gmail.com](mailto:eddie.lau.life@gmail.com)
